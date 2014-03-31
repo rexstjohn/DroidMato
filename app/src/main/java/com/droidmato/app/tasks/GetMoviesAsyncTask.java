@@ -23,7 +23,7 @@ import java.util.Set;
 public class GetMoviesAsyncTask extends AsyncTask<GetMoviesQueryModel, Long, MovieContainerModel> {
 
         private static final String ENDPOINT = "http://api.rottentomatoes.com/api/public/v1.0/lists/movies/in_theaters.json?apikey=";
-        private static final String API_KEY = "XXXXXXX";
+        private static final String API_KEY = "v6vvhm6st84z58rns3uaceax";
         public GetMoviesAsyncTaskResponse delegate=null;
 
         protected MovieContainerModel doInBackground(GetMoviesQueryModel... params) {
