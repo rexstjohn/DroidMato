@@ -1,11 +1,14 @@
-
 <p align="center"><img src="example.png" alt="DroidMato Example"/></p>
-
 
 DROIDMATO
 
 This is an example implementation of an Android RottenTomatoes API app based on the Mashery hosted API for RT.
-Included is an Async unit test and object model for getting movies that are currently in theaters. At this point I just display the movie poster but the data is there to get other info.
+Included is an Async unit test and object model for getting movies that are currently in theaters. At this point I just display the movie poster but the data is there to get other info. 
+
+Anyone using this API must sign up and make correct use of Rotten Tomatoes' branding as below:
+
+Rotten Tomatoes API: http://developer.rottentomatoes.com/
+Rotten Tomatoes Branding Guidelines: http://developer.rottentomatoes.com/docs/brand_guidelines
 
 INSTRUCTIONS
 
