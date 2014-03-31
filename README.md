@@ -1,3 +1,7 @@
+
+<p align="center"><img src="example.png" alt="DroidMato Example"/></p>
+
+
 DROIDMATO
 
 This is an example implementation of an Android RottenTomatoes API app based on the Mashery hosted API for RT.
